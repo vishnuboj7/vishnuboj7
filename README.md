@@ -2,6 +2,7 @@
 - 👀 I’m interested in Full stack developing,although im only halfway
 - 🌱 I’m currently learning front end,web development
 - 💞️ I’m looking to collaborate on almost anything:)
+- ;)I'm good with Linux,VS code,Javascript and coffee:)
 - 📫 How to reach me vishnu77boj@gmail.com
 
 <!---
